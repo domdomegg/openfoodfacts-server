@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.89.3](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.89.2...v2.89.3) (2026-03-04)
+
+
+### Bug Fixes
+
+* Add null guards for remaining high-priority warnings ([#13039](https://github.com/openfoodfacts/openfoodfacts-server/issues/13039)) ([#13092](https://github.com/openfoodfacts/openfoodfacts-server/issues/13092)) ([dccfe73](https://github.com/openfoodfacts/openfoodfacts-server/commit/dccfe737ba30fc0a5675c7c8d3c1280e6dfc5440))
+* JSON encoding crash when importing some products ([#13225](https://github.com/openfoodfacts/openfoodfacts-server/issues/13225)) ([947af26](https://github.com/openfoodfacts/openfoodfacts-server/commit/947af261d0cab27a6049369dfe0029bfe602822c))
+
 ## [2.89.2](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.89.1...v2.89.2) (2026-03-04)
 
 
